@@ -1,6 +1,6 @@
 # Getting Started with Whatsapp Clone
 
-This project is a pixel perfect whatsapp clone powered bt firebase and react
+This project is a pixel perfect whatsapp clone powered by firebase and react
 
 ## Available Scripts
 
